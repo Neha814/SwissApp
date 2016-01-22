@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SwissApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="phone">Phone</string>
+    <string name="email">Email</string>
+    <string name="website">Website</string>
+    <string name="address">Address</string>
+    <string name="services">Services</string>
+    <string name="list_heading">List Heading</string>
+    <string name="favourites">Favourites</string>
+    <string name="info">Info</string>
+    <string name="map_heading">Map Heading</string>
+    <string name="settings">Settings</string>
+    <string name="search_radius">Search Radius</string>
+    <string name="km">0 Km</string>
+    <string name="language">Language</string>
+    <string name="deutsch">Deutsch</string>
+    <string name="english">English</string>
+    <string name="francais">Francais</string>
+    <string name="italiano">Italiano</string>
+    <string name="swiss_app_24">Swiss App 24</string>
+    <string name="tap_to_search">Tap here to search</string>
+    <string name="dienstleister">Dienstleister</string>
+    <string name="auto_and_mobilitat">Auto and Mobilitat</string>
+    <string name="gesundheit">Gesundheit</string>
+    <string name="beauty_sport">Beauty/Sport</string>
+    <string name="notfall">Notfall</string>
+    <string name="lyoness_partner">Lyoness-Partner</string>
+    <string name="online_shops">Online-shops</string>
+    <string name="contact">Contacts</string>
+    <string name="list">List</string>
+    <string name="map">Map</string>
+    <string name="setting">Settings</string>
+    <string name="favorites">Favourites</string>
+    <string name="infos">Infos</string>
+    <string name="company_name">Company Name</string>
+    <string name="address_text">Address</string>
+    <string name="description">Description</string>
+    <string name="static_info">Swiss App 24 ist ein Teil von Pushing. ch GmbH</string>
+    <string name="static_text">PUSHING.CH GmbH / SwissApp24 Leugisland - Weg 1 CH-8605 Gutenswil/ZH.</string>
+     <string name="text">Sie erreichen uns unter der E-Mail</string>
+      <string name="video_link">Video Link</string>
+
+</resources>

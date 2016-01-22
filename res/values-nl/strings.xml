@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_radius">Zoekresultaat</string>
+    
+    <!--  
+    <string name="list">lijst</string>
+    <string name="map">kaart</string>
+    <string name="setting">instellingen</string>
+    <string name="favorites">favorieten</string>
+    <string name="infos">info</string>   -->
+    
+     <string name="language">taal</string>
+     <string name="services">diensten</string>
+     <string name="description">beschrijving</string>
+</resources>

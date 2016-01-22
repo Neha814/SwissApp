@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_radius">Risultato di ricerca</string>
+    
+    <!--  
+    <string name="list">lista</string>
+    <string name="map">mappa</string>
+    <string name="setting">Impostazioni</string>
+    <string name="favorites">favoriti</string>
+    <string name="infos">Info</string>   -->
+     <string name="language">lingua</string>
+     <string name="services">Servizi</string>
+     <string name="description">descrizione</string>
+    
+</resources>
